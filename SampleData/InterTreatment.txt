@@ -1,0 +1,12 @@
+Order: continue XRT 
+Age: 73 
+Diagnosis: 
+Course: 1. HYPOPHARYNX 
+[BEG_TABLE]Plan ID[TAB]Fractions[TAB]First Treatment[TAB]Last Treatment[TAB]Expected End of Treatment 
+P1 ENT[TAB]18 / 20[TAB]18/06/2020[TAB]15/07/2020[TAB][END_TABLE] 
+1. HYPOPHARYNX (Plan ID - P1 ENT) - Rx Dose 45Gy (Status - Treatment Approved) - 18 / 20 
+Review of systems manages PO feed, uses PEG partially, pain undercontrol with MMW, thick secretions 
+Medications: 
+Examination: Performance status: grade 3 dermatitis on flamazine dressing 
+Toxicity: 
+-----------------

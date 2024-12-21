@@ -1,0 +1,6 @@
+T2	SideEffect 473 491	grade 3 dermatitis
+A2	CUI T2 dermatitis_C0011603
+T1	SideEffect 360 378	uses PEG partially
+A1	CUI T1 tube_for_dysphagia_C0011168
+T4	SideEffect 408 424	thick secretions
+A3	CUI T4 thick-viscous-saliva_C1867881

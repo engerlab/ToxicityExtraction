@@ -1,0 +1,8 @@
+T2	SideEffect 117 128	sore throat
+A2	CUI T2 sore-throat_C0242429
+T3	SideEffect 134 155	difficulty swallowing
+A3	CUI T3 dysphagia_C0011168
+T4	SideEffect 235 241	thrush
+A4	CUI T4 oral-candidiasis_C0006849
+T1	SideEffect 212 229	grade 3 mucosists
+A1	CUI T1 inflammatory-disease-of-mucous-membrane_C0333355
